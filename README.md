@@ -95,6 +95,3 @@ Admitting a patient automatically flips their room to `OCCUPIED`; discharging fl
 - There's no auth on any of this yet — it's meant as a backend/API layer, not something to expose publicly as-is.
 - The original project brief called for a Tkinter/Flask GUI; that's swapped out here for a plain REST API so any frontend can sit on top of it.
 
-## License
-
-MIT — do whatever you want with it.
