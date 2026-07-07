@@ -1,7 +1,7 @@
 # Hospital-Management-System
 # LifeLineDB
 
-A hospital management backend built with Spring Boot and MySQL. This was originally scoped as a DBMS project (normalized schema, ER modeling, triggers, views) and implemented here as a working REST API instead of the original Python/Tkinter plan.
+A hospital management backend built with Spring Boot and MySQL.
 
 Handles the core stuff a hospital system needs to track: patients, doctors, departments, appointments, room admissions, billing, and prescriptions.
 
